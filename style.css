@@ -1,0 +1,38 @@
+header, article, footer{
+	color: #23242E;
+	float:left;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+#container {
+	font-family: calibri;
+	background-color: white;
+	width: 650px;
+	height: 1200px;
+	margin: 0 auto;
+
+}
+
+header {
+	background-color: white;
+	width: calc(100% - 30px);
+	color:orange;
+}
+
+h2 {
+  color:orange;
+}
+
+article {
+	background-color: white;
+	width: calc(100% - 30px);
+	height: 1200px;
+}
+
+footer{
+	background-color:grey;
+	width: 100%;
+	width: calc(100% - 30px);
+	color:white;
+}
